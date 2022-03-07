@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikita. @niki1405
 - 👀 I’m interested in Machine Learning, Creative Design and Networking.
 - 🌱 I’m currently learning Computer Science Engineering.
-- 💞️ I’m looking to collaborate on Web Developers.
+- 💞️ I’m looking to collaborate on Computer Networking.
 - 📫 How to reach me rawalkarnikita6@gmail.com
 
 <!---
